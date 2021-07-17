@@ -19,9 +19,11 @@
   "homepage": "https://github.com/kazumasa1234/git-test#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-sass": "^5.0.0"
+    "gulp-sass": "^5.0.0",
+    "gulp-webserver": "^0.9.1"
   },
   "dependencies": {
+    "gulp-connect": "^5.7.0",
     "node-sass": "^6.0.1",
     "sass": "^1.35.2"
   }
