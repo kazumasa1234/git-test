@@ -1,0 +1,9 @@
+$yoko: 500px;
+$sen:1px solid #f00;
+#main {
+  width: $yoko;
+  border:$sen;
+  p {
+    margin:10px;
+  }
+}
